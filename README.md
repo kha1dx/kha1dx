@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Khaled Salleh, Software Engineer and AI Developer, based in Cairo" width="900">
+  <img src="./assets/hero.svg" alt="Khaled Salleh, Software Engineer and AI Developer in Cairo. Focus: AI integration, system design, microservices. Stack: TypeScript, Python, React, FastAPI, Google Cloud" width="900">
 </div>
 
 <br>

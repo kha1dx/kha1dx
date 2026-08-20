@@ -43,17 +43,26 @@ BAR = 40              # title bar height
 X0 = 62               # first code column
 TOP = 70              # first baseline
 
+def arr(items):
+    """Render a string array as coloured runs, comma separated."""
+    out = [("[", PUNCT)]
+    for i, it in enumerate(items):
+        if i:
+            out.append((", ", PUNCT))
+        out.append((f'"{it}"', STRING))
+    out.append(("]", PUNCT))
+    return out
+
+
 # Each line is a list of (text, colour) runs.
 LINES = [
-    [("// I build products with language models inside them.", COMMENT)],
+    [("// Armed with curiosity and a love for problem solving.", COMMENT)],
     [],
     [("const", KEYWORD), (" ", PUNCT), ("khaled", VAR), (" = ", PUNCT), ("{", PUNCT)],
     [("  role", PROP), (":  ", PUNCT), ('"Software Engineer & AI Developer"', STRING), (",", PUNCT)],
     [("  base", PROP), (":  ", PUNCT), ('"Cairo, Egypt"', STRING), (",", PUNCT)],
-    [("  stack", PROP), (": ", PUNCT), ("[", PUNCT),
-     ('"TypeScript"', STRING), (", ", PUNCT), ('"Python"', STRING), (", ", PUNCT),
-     ('"Google Cloud"', STRING), (", ", PUNCT), ('"OpenAI"', STRING), ("]", PUNCT), (",", PUNCT)],
-    [("  now", PROP), (":   ", PUNCT), ('"Agile Translate, EN to AR decks that keep their layout"', STRING), (",", PUNCT)],
+    [("  focus", PROP), (": ", PUNCT), *arr(["AI integration", "system design", "microservices"]), (",", PUNCT)],
+    [("  stack", PROP), (": ", PUNCT), *arr(["TypeScript", "Python", "React", "FastAPI", "Google Cloud"]), (",", PUNCT)],
     [("}", PUNCT), (";", PUNCT)],
 ]
 

@@ -14,13 +14,9 @@
 
 ---
 
-### whoami
+Most of my work is the unglamorous half of AI products: turning a model that demos well into a feature that holds up against real users and real files. It takes the whole stack, React and Next.js on the surface, Python and FastAPI underneath, system design and microservices on Google Cloud.
 
-Software engineer and AI developer in Cairo, finishing a Computer Engineering degree at the German University in Cairo.
-
-I work on the seam between product code and language models: React and Next.js on the front, Python and FastAPI behind it, system design and microservices architecture on Google Cloud.
-
-Before code I ran **Innovisionary Creative**, a video and brand studio I started as a teenager. It is why I care how things look, not just whether they run.
+Computer Engineering at the German University in Cairo, one semester of it in Berlin. Before code I ran **Innovisionary Creative**, a video and brand studio I started as a teenager, which is why I care how things look and not just whether they run.
 
 ### currently building
 

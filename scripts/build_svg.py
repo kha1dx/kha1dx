@@ -56,7 +56,7 @@ def arr(items):
 
 # Each line is a list of (text, colour) runs.
 LINES = [
-    [("// Armed with curiosity and a love for problem solving.", COMMENT)],
+    [("// I take products from design through to production.", COMMENT)],
     [],
     [("const", KEYWORD), (" ", PUNCT), ("khaled", VAR), (" = ", PUNCT), ("{", PUNCT)],
     [("  role", PROP), (":  ", PUNCT), ('"Software Engineer & AI Developer"', STRING), (",", PUNCT)],

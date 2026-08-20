@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Khaled Salleh, Software Engineer and AI Developer in Cairo. Focus: AI integration, system design, microservices. Stack: TypeScript, Python, React, FastAPI, Google Cloud" width="900">
+  <img src="./assets/hero.svg?v=4" alt="Khaled Salleh, Software Engineer and AI Developer in Cairo. Focus: AI integration, system design, microservices. Stack: TypeScript, Python, React, FastAPI, Google Cloud" width="900">
 </div>
 
 <br>
@@ -35,7 +35,7 @@ Computer Engineering at the German University in Cairo, one semester of it in Be
 
 ### stack
 
-<img src="./assets/stack.svg" alt="Stack: OpenAI GPT, LLM integration, prompt engineering, RAG pipelines, system design, microservices, REST APIs, Docker, Google Cloud Run, Cloud Storage, Cloud SQL, Firebase, Cloud Build, TypeScript, React, Next.js, Tailwind CSS, Vue 3, Python, FastAPI, Node.js, PostgreSQL, Supabase" width="900">
+<img src="./assets/stack.svg?v=4" alt="Stack: OpenAI GPT, LLM integration, prompt engineering, RAG pipelines, system design, microservices, REST APIs, Docker, Google Cloud Run, Cloud Storage, Cloud SQL, Firebase, Cloud Build, TypeScript, React, Next.js, Tailwind CSS, Vue 3, Python, FastAPI, Node.js, PostgreSQL, Supabase" width="900">
 
 <br>
 

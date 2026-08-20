@@ -159,9 +159,13 @@ GROUPS = [
         ("OpenAI GPT", "#10a37f"), ("LLM Integration", "#c586c0"),
         ("Prompt Engineering", "#9d7cd8"), ("RAG Pipelines", "#7aa2f7"),
     ]),
+    ("architecture", [
+        ("System Design", "#4ec9b0"), ("Microservices", "#dcdcaa"),
+        ("REST APIs", "#569cd6"), ("Docker", "#2496ed"),
+    ]),
     ("cloud", [
         ("Cloud Run", "#4285f4"), ("Cloud Storage", "#34a853"), ("Cloud SQL", "#4285f4"),
-        ("Firebase", "#ffca28"), ("Cloud Build", "#fbbc04"), ("Docker", "#2496ed"),
+        ("Firebase", "#ffca28"), ("Cloud Build", "#fbbc04"),
     ]),
     ("frontend", [
         ("TypeScript", "#3178c6"), ("React", "#61dafb"), ("Next.js", "#e5e5e5"),
@@ -169,7 +173,7 @@ GROUPS = [
     ]),
     ("backend", [
         ("Python", "#3776ab"), ("FastAPI", "#059486"), ("Node.js", "#339933"),
-        ("REST APIs", "#4ec9b0"), ("PostgreSQL", "#336791"), ("Supabase", "#3ecf8e"),
+        ("PostgreSQL", "#336791"), ("Supabase", "#3ecf8e"),
     ]),
 ]
 

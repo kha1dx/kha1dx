@@ -14,14 +14,6 @@
 
 ---
 
-Most of my work is the unglamorous half of AI products: turning a model that demos well into a feature that holds up against real users and real files. It takes the whole stack, React and Next.js on the surface, Python and FastAPI underneath, system design and microservices on Google Cloud.
-
-Computer Engineering at the German University in Cairo, one semester of it in Berlin. Before code I ran **Innovisionary Creative**, a video and brand studio I started as a teenager, which is why I care how things look and not just whether they run.
-
-### currently building
-
-**Agile Translate** localizes PowerPoint decks from English to Arabic, rewriting the layout from LTR to RTL without breaking the design. Next.js and FastAPI, OpenAI GPT, and direct PPTX/OOXML editing, running on Cloud Run, Cloud Storage, and Cloud SQL. Built with the team at Agile Worx.
-
 ### selected work
 
 | project | what it is |
